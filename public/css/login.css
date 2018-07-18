@@ -1,0 +1,19 @@
+body {
+    background-image: url("2.jpg");
+    background-size: 100%;
+}
+
+#login{
+    position: absolute;
+    
+}
+
+p {
+    color:  red;
+}
+
+.form-group{
+    font-size: 20px;
+    width: 300px;
+}
+
